@@ -1,0 +1,13 @@
+*.vscode/*
+*.o
+*.out
+*.DS_Store
+*.dSYM
+WTP-base/wReceiver
+WTP-base/wSender
+WTP-opt/wReceiver
+WTP-opt/wSender
+WTP-base/recv_log.txt
+WTP-base/sender_log.txt
+WTP-opt/recv_log.txt
+WTP-opt/sender_log.txt
